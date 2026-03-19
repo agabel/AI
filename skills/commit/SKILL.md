@@ -1,5 +1,5 @@
 ---
-name: git-commit
+name: commit
 description: Guide for committing changes following Conventional Commits specification. Use this when asked to commit code changes.
 ---
 
